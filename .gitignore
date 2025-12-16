@@ -1,0 +1,23 @@
+# Reference Repository (Don't upload other people's code)
+Where-Winds-Meet-Midi-Player/
+
+# System / Tools
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.gemini/
+project_dump.txt
+project_context.txt
+
+# Node (Frontend)
+node_modules/
+dist/
+.svelte-kit/
+
+# Rust (Backend)
+target/
+**/*.rs.bk
+
+# Tauri
+src-tauri/target/
